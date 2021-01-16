@@ -19,7 +19,7 @@ Heroku 提供免费账号，部分介绍如下：
 - https://devcenter.heroku.com/articles/limits
 - https://devcenter.heroku.com/articles/free-dyno-hours#usage
 
-注册地址：https://signup.heroku.com/ （注册和部署过程可能需要梯子[#10](https://github.com/youoiyyt66743464/shadowsocks-heroku/issues/10)，[#14](https://github.com/onplus/shadowsocks-heroku/issues/14)）
+注册地址：https://signup.heroku.com/ （注册和部署过程可能需要梯子[#10](https://github.com/youoiyyt66743464/shadowsocks-heroku/issues/10)，[#14](https://github.com/youoiyyt66743464/shadowsocks-heroku/issues/14)）
 
 ## 部署
 1. 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/youoiyyt66743464/shadowsocks-heroku/tree/re)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/youoiyyt66743464/shadowsocks-heroku/tree/re)
@@ -35,7 +35,7 @@ Heroku 提供免费账号，部分介绍如下：
 支持的加密算法类型如下https://github.com/mrluanma/shadowsocks-heroku#supported-ciphers
 
 ## 启动本地 Client
-1. 下载release https://github.com/onplus/shadowsocks-heroku/releases （[备份](https://github.com/youoiyyt66743464/archive/tree/master/tool)）
+1. 下载release https://github.com/youoiyyt66743464/shadowsocks-heroku/releases （[备份](https://github.com/youoiyyt66743464/archive/tree/master/tool)）
 
 2. 修改config.json参数，运行ss-h.exe 或 start.vbs (或 [win托盘工具taskbar.exe](https://github.com/youoiyyt66743464/shadowsocks-heroku/issues/39))
 
